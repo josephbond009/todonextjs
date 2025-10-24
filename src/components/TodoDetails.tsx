@@ -85,7 +85,7 @@ const TodoDetails: React.FC = () => {
             </span>
           </p>
         </section>
-        <Link to="/" className="back-button" aria-label="Back to todo list">
+        <Link href="/" className="back-button" aria-label="Back to todo list">
           Back to Todo List
         </Link>
       </div>
